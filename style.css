@@ -14,3 +14,10 @@ body{
     border-radius: 5px;
     width: 300px;
 }
+.first-box{
+    background-color: rgb(54, 163, 199);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
