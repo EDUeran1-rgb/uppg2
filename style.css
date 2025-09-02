@@ -8,8 +8,9 @@ body{
 }
 .background{
     background-image: url(cssb.jpg);
-    background-size: stretch;
+    background-size: cover;
     background-position: top;
+    background-repeat: no-repeat;
 }
 .boxes{
     height:outo;
