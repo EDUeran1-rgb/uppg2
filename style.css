@@ -37,6 +37,7 @@ body{
 .loremtxt{
     color: white;
     width: 500px;
+    --font-family: "Wingdings", sans-serif;
 }
 .the-header{
     background-color: white;
