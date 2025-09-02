@@ -17,6 +17,14 @@ body{
     display: flex;
     align-items: center;
 }
+.txt{
+    background-color: rgba(0, 0, 0, 0.354);
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
 .the-text{
     color: white;
     padding: 2px;
