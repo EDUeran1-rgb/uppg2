@@ -8,5 +8,7 @@ body{
 
 }
 #the-text{
-    
+    border-color: green;
+    border-width: 2px;
+    border-style: solid;
 }
